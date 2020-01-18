@@ -1,1 +1,1 @@
-module.exports = require('./lib/modified-hccrawler.js');
+module.exports = require('./lib/hccrawler.js');
